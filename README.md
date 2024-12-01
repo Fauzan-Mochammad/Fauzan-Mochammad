@@ -1,7 +1,7 @@
 - 👋 Hi, My name is Mochammad Fauzan
-- 👀 I’m interested in backend developer, but I am open to learn frontend too
-- 🌱 I’m currently learning laravel, Version Control System Git/Github, and going to learn tailwind CSS
-- 💞️ I’m looking to collaborate on some projects including creating a website especially on backend side, like create login system and authentication, CRUD on Database, etc
+- 👀 I’m interested in backend developer, web3 and game development
+- 🌱 I’m currently learning solidity and scratch as game development, as now I am a teacher now.
+- 💞️ I’m looking to collaborate on some projects including creating a website especially on backend side, web3 features and game development using scratch
 - 📫 You can contact me on my email fauzan3047@gmail.com
 
 Nice to meet you !
